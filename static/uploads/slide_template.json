@@ -1,0 +1,35 @@
+{
+  "slides": [
+    {
+      "slide_id": 1,
+      "title": "YOUR TITLE HERE - Replace with your actual title",
+      "ad_account": "AA1",
+      "metrics": {
+        "spend": 0.0,
+        "cac_scientific": 0.0,
+        "cac_last_click": 0.0,
+        "cac_clicks_only": 0.0,
+        "cac_last_non_direct": 0.0,
+        "new_visits_pct": 0.0,
+        "ecr_pct": 0.0,
+        "date_created": "Month Day, Year"
+      },
+      "notes": "See links below",
+      "links": {
+        "facebook": {
+          "text": "FB Link",
+          "url": "https://www.facebook.com/yourpage"
+        },
+        "instagram": {
+          "text": "IG Link", 
+          "url": "https://www.instagram.com/yourpage"
+        }
+      },
+      "images": {
+        "main": "creative.png",
+        "bottom_left": "chart_1.png",
+        "bottom_right": "table_1.png"
+      }
+    }
+  ]
+} 

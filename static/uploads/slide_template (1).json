@@ -1,0 +1,31 @@
+{
+  "slides": [
+    {
+      "slide_id": 1,
+      "title": "MED - REELS - INHOUSE - MC 2025 05 29 - Cortisol Belly - If you have alcohol belly, just stop drinking alcohol. - AIRIDAS/NENAD - CHARLES - Rron",
+      "ad_account": "AA1",
+      "metrics_raw": "Spend - $348.91 67.7%
+CAC (Hyros Scientific) - $58.15
+CAC (Hyros Last Click) - $43.61
+CAC (Clicks Only - Northbeam) - $57.58 (86.2%)
+CAC (Last non-direct touch - Northbeam) - $43.61 (∞%) 
+New Visits ( Northbeam) - 51.23% (20.4%)
+ECR (Northbeam) - 3.74% 603.2%
+Date Created - Jul 2, 2025",
+      "notes": "See links below",
+      "links": {
+        "facebook": {
+          "text": "FB Link",
+          "url": "https://www.facebook.com/yourpage"
+        },
+        "instagram": {
+          "text": "IG Link", 
+          "url": "https://www.instagram.com/yourpage"
+        }
+      },
+      "images": {
+        "main": "creative_1.png",
+        "bottom_left": "chart_1.png",
+        "bottom_right": "table_1.png"
+  ]
+} 

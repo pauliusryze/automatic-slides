@@ -1,0 +1,55 @@
+TEMPLATE MEASUREMENTS
+===================
+
+Slide size: 12188825 x 6858000
+
+Shape 0: TextBox 1
+  Type: Shape
+  Position: Left=457200, Top=182880
+  Size: Width=11022227, Height=584775
+  Text: MED - REELS - INHOUSE - MC 2025 05 29 - Cortisol Belly - If you have alcohol belly, just stop drinking alcohol. - AIRIDAS/NENAD - CHARLES - Rron
+  Font size: 152400
+
+Shape 1: Picture 2
+  Type: Picture
+  Position: Left=670353, Top=1017785
+  Size: Width=3188043, Height=3542270
+
+Shape 2: TextBox 4
+  Type: Shape
+  Position: Left=5815830, Top=1465511
+  Size: Width=5785558, Height=2062103
+  Text: Spend - $348.91 67.7%
+CAC (Hyros Scientific) - $58.15
+CAC (Hyros Last Click) - $43.61
+CAC (Clicks Only - Northbeam) - $57.58 (86.2%)
+CAC (Last non-direct touch - Northbeam) - $43.61 (∞%)
+New Visits (Northbeam) - 51.23% (20.4%)
+ECR (Northbeam) - 3.74% 603.2%
+Date Created - Jul 2, 2025
+  Font size: 152400
+
+Shape 3: TextBox 5
+  Type: Shape
+  Position: Left=3983509, Top=3585279
+  Size: Width=5029200, Height=457200
+  Text: FB Link | IG Link
+  Font size: 127000
+
+Shape 4: Picture 6
+  Type: Picture
+  Position: Left=457200, Top=4846320
+  Size: Width=4114800, Height=1371600
+
+Shape 5: Picture 7
+  Type: Picture
+  Position: Left=4754880, Top=4102443
+  Size: Width=7132320, Height=2250166
+
+Shape 6: CuadroTexto 9
+  Type: Shape
+  Position: Left=3983509, Top=2329934
+  Size: Width=1176981, Height=584775
+  Text: AA1
+  Font size: 190500
+

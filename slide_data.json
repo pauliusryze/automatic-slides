@@ -1,0 +1,36 @@
+{
+  "slides": [
+    {
+      "slide_id": 1,
+      "title": "MED - REELS - INHOUSE - MC 2025 05 29 - Cortisol Belly - If you have alcohol belly, just stop drinking alcohol. - AIRIDAS/NENAD - CHARLES - Rron",
+      "subtitle": "RYZE Superfoods | Sponsored | RYZE is powered by functional mushrooms and adaptogens. Our creamy and delicious blend features six functional mushrooms, ...See more",
+      "metrics_raw": "Spend - $348.91 67.7% | CAC (Hyros Scientific) - $58.15 | CAC (Hyros Last Click) - $43.61 | CAC (Clicks Only - Northbeam) - $57.58 (86.2%) | CAC (Last non-direct touch - Northbeam) - $43.61 (∞%) | New Visits ( Northbeam) - 51.23% (20.4%) | ECR (Northbeam) - 3.74% 603.2% | Date Created - Jul 2, 2025",
+      "notes": "See links below",
+      "links": {
+        "facebook": {
+          "text": "FB Link",
+          "url": "https://www.facebook.com/ryzesuperfoods"
+        },
+        "instagram": {
+          "text": "IG Link", 
+          "url": "https://www.instagram.com/ryzesuperfoods"
+        }
+      },
+      "images": {
+        "main": "creative_1.png",
+        "bottom_left": "chart_1.png", 
+        "bottom_right": "table_1.png"
+      },
+      "metrics": {
+        "spend": 348.91,
+        "cac_scientific": 58.15,
+        "cac_last_click": 43.61,
+        "cac_clicks_only": 57.58,
+        "cac_last_non_direct": 43.61,
+        "new_visits_pct": 0.5123,
+        "ecr_pct": 0.0374,
+        "date_created": "Jul 2 2025"
+      }
+    }
+  ]
+} 
