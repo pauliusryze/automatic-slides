@@ -1,0 +1,447 @@
+2025-07-21T00:05:47.131796 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp6hxsebfw.csv
+Output: generated_presentation.pptx
+2025-07-21T00:05:47.147039 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T00:05:47.148044 |   MISSING Main Image: sample_main.png
+2025-07-21T00:05:47.148151 |   MISSING Chart Image: sample_chart.png
+2025-07-21T00:05:47.148218 |   MISSING Table Image: sample_table.png
+2025-07-21T00:05:47.150436 |     WARNING: Main Image missing for this slide.
+2025-07-21T00:05:47.153003 |     WARNING: Chart Image missing for this slide.
+2025-07-21T00:05:47.153087 |     WARNING: Table Image missing for this slide.
+2025-07-21T00:05:47.153565 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T00:05:47.154135 |   MISSING Main Image: sample_main.png
+2025-07-21T00:05:47.154216 |   MISSING Chart Image: sample_chart.png
+2025-07-21T00:05:47.154361 |   MISSING Table Image: sample_table.png
+2025-07-21T00:05:47.154726 |     WARNING: Main Image missing for this slide.
+2025-07-21T00:05:47.156934 |     WARNING: Chart Image missing for this slide.
+2025-07-21T00:05:47.156986 |     WARNING: Table Image missing for this slide.
+2025-07-21T00:05:47.165614 | === GENERATION COMPLETE ===
+
+2025-07-21T00:20:44.824313 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpwbuvd17e.csv
+Output: generated_presentation.pptx
+2025-07-21T00:20:44.851130 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T00:20:44.853357 |   Found Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_main.png
+2025-07-21T00:20:44.853439 |   Found Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_chart.png
+2025-07-21T00:20:44.853496 |   Found Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_table.png
+2025-07-21T00:20:44.854071 |     Placing Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_main.png
+2025-07-21T00:20:44.855808 |     SUCCESS: Main Image placed.
+2025-07-21T00:20:44.860721 |     Placing Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_chart.png
+2025-07-21T00:20:44.862332 |     SUCCESS: Chart Image placed.
+2025-07-21T00:20:44.862406 |     Placing Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_table.png
+2025-07-21T00:20:44.863738 |     SUCCESS: Table Image placed.
+2025-07-21T00:20:44.865385 |     Placing Top Right Image (main): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_main.png
+2025-07-21T00:20:44.866898 |     SUCCESS: Top Right Image placed.
+2025-07-21T00:20:44.866992 |     Placing Top Banner (chart): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_chart.png
+2025-07-21T00:20:44.867998 |     SUCCESS: Top Banner placed.
+2025-07-21T00:20:44.868064 |     Placing Bottom Small Image (table): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_table.png
+2025-07-21T00:20:44.870501 |     SUCCESS: Bottom Small Image placed.
+2025-07-21T00:20:44.870725 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T00:20:44.871221 |   Found Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_main.png
+2025-07-21T00:20:44.871264 |   Found Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_chart.png
+2025-07-21T00:20:44.871301 |   Found Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_table.png
+2025-07-21T00:20:44.871712 |     Placing Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_main.png
+2025-07-21T00:20:44.872839 |     SUCCESS: Main Image placed.
+2025-07-21T00:20:44.875205 |     Placing Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_chart.png
+2025-07-21T00:20:44.875841 |     SUCCESS: Chart Image placed.
+2025-07-21T00:20:44.875909 |     Placing Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_table.png
+2025-07-21T00:20:44.876778 |     SUCCESS: Table Image placed.
+2025-07-21T00:20:44.877239 |     Placing Top Right Image (main): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_main.png
+2025-07-21T00:20:44.878824 |     SUCCESS: Top Right Image placed.
+2025-07-21T00:20:44.878967 |     Placing Top Banner (chart): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_chart.png
+2025-07-21T00:20:44.879478 |     SUCCESS: Top Banner placed.
+2025-07-21T00:20:44.879522 |     Placing Bottom Small Image (table): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp86lr99pj/sample_table.png
+2025-07-21T00:20:44.880134 |     SUCCESS: Bottom Small Image placed.
+2025-07-21T00:20:44.898654 | === GENERATION COMPLETE ===
+
+2025-07-21T00:32:02.438659 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxdz8dzyp.csv
+Output: generated_presentation.pptx
+2025-07-21T00:32:02.464090 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T00:32:02.465979 |   Found Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_main.png
+2025-07-21T00:32:02.466088 |   Found Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_chart.png
+2025-07-21T00:32:02.466149 |   Found Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_table.png
+2025-07-21T00:32:02.466748 |     Placing Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_main.png
+2025-07-21T00:32:02.475742 |     SUCCESS: Main Image placed.
+2025-07-21T00:32:02.484001 |     Placing Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_chart.png
+2025-07-21T00:32:02.485517 |     SUCCESS: Chart Image placed.
+2025-07-21T00:32:02.485647 |     Placing Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_table.png
+2025-07-21T00:32:02.486580 |     SUCCESS: Table Image placed.
+2025-07-21T00:32:02.487052 |     Placing Top Right Image (main): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_main.png
+2025-07-21T00:32:02.488171 |     SUCCESS: Top Right Image placed.
+2025-07-21T00:32:02.488238 |     Placing Top Banner (chart): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_chart.png
+2025-07-21T00:32:02.488835 |     SUCCESS: Top Banner placed.
+2025-07-21T00:32:02.488915 |     Placing Bottom Small Image (table): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_table.png
+2025-07-21T00:32:02.490285 |     SUCCESS: Bottom Small Image placed.
+2025-07-21T00:32:02.490516 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T00:32:02.493255 |   Found Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_main.png
+2025-07-21T00:32:02.493556 |   Found Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_chart.png
+2025-07-21T00:32:02.493645 |   Found Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_table.png
+2025-07-21T00:32:02.494375 |     Placing Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_main.png
+2025-07-21T00:32:02.495690 |     SUCCESS: Main Image placed.
+2025-07-21T00:32:02.498030 |     Placing Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_chart.png
+2025-07-21T00:32:02.498581 |     SUCCESS: Chart Image placed.
+2025-07-21T00:32:02.498626 |     Placing Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_table.png
+2025-07-21T00:32:02.499399 |     SUCCESS: Table Image placed.
+2025-07-21T00:32:02.499818 |     Placing Top Right Image (main): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_main.png
+2025-07-21T00:32:02.500822 |     SUCCESS: Top Right Image placed.
+2025-07-21T00:32:02.500859 |     Placing Top Banner (chart): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_chart.png
+2025-07-21T00:32:02.501650 |     SUCCESS: Top Banner placed.
+2025-07-21T00:32:02.501720 |     Placing Bottom Small Image (table): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpxq_6n6wk/sample_table.png
+2025-07-21T00:32:02.502343 |     SUCCESS: Bottom Small Image placed.
+2025-07-21T00:32:02.521641 | === GENERATION COMPLETE ===
+
+2025-07-21T00:50:15.392918 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpo6x_j2z5.csv
+Output: generated_presentation.pptx
+2025-07-21T00:50:15.429846 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T00:50:15.430475 |   Found Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_main.png
+2025-07-21T00:50:15.430528 |   Found Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_chart.png
+2025-07-21T00:50:15.430569 |   Found Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_table.png
+2025-07-21T00:50:15.431081 |     Placing Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_main.png
+2025-07-21T00:50:15.433238 |     SUCCESS: Main Image placed.
+2025-07-21T00:50:15.436225 |     Placing Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_chart.png
+2025-07-21T00:50:15.437703 |     SUCCESS: Chart Image placed.
+2025-07-21T00:50:15.437777 |     Placing Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_table.png
+2025-07-21T00:50:15.438695 |     SUCCESS: Table Image placed.
+2025-07-21T00:50:15.439159 |     Placing Top Right Image (main): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_main.png
+2025-07-21T00:50:15.440508 |     SUCCESS: Top Right Image placed.
+2025-07-21T00:50:15.440568 |     Placing Top Banner (chart): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_chart.png
+2025-07-21T00:50:15.441198 |     SUCCESS: Top Banner placed.
+2025-07-21T00:50:15.441281 |     Placing Bottom Small Image (table): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_table.png
+2025-07-21T00:50:15.442258 |     SUCCESS: Bottom Small Image placed.
+2025-07-21T00:50:15.442456 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T00:50:15.442955 |   Found Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_main.png
+2025-07-21T00:50:15.443007 |   Found Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_chart.png
+2025-07-21T00:50:15.443046 |   Found Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_table.png
+2025-07-21T00:50:15.443474 |     Placing Main Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_main.png
+2025-07-21T00:50:15.446203 |     SUCCESS: Main Image placed.
+2025-07-21T00:50:15.453676 |     Placing Chart Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_chart.png
+2025-07-21T00:50:15.454369 |     SUCCESS: Chart Image placed.
+2025-07-21T00:50:15.454417 |     Placing Table Image: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_table.png
+2025-07-21T00:50:15.455035 |     SUCCESS: Table Image placed.
+2025-07-21T00:50:15.455395 |     Placing Top Right Image (main): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_main.png
+2025-07-21T00:50:15.456533 |     SUCCESS: Top Right Image placed.
+2025-07-21T00:50:15.456590 |     Placing Top Banner (chart): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_chart.png
+2025-07-21T00:50:15.457503 |     SUCCESS: Top Banner placed.
+2025-07-21T00:50:15.457651 |     Placing Bottom Small Image (table): /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpjf5f3oom/sample_table.png
+2025-07-21T00:50:15.458863 |     SUCCESS: Bottom Small Image placed.
+2025-07-21T00:50:15.476223 | === GENERATION COMPLETE ===
+
+2025-07-21T00:52:21.632017 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2oulbg_0
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpu8rd38r7.csv
+Output: generated_presentation.pptx
+2025-07-21T00:52:21.646378 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T00:52:21.647602 |   MISSING main_creative: None
+2025-07-21T00:52:21.647679 |   MISSING bottom_chart: None
+2025-07-21T00:52:21.647738 |   MISSING bottom_table: None
+2025-07-21T00:52:21.647788 |     WARNING: main_creative missing for this slide.
+2025-07-21T00:52:21.647836 |     WARNING: bottom_chart missing for this slide.
+2025-07-21T00:52:21.647881 |     WARNING: bottom_table missing for this slide.
+2025-07-21T00:52:21.648015 |     WARNING: static logo image not found: logo.png
+2025-07-21T00:52:21.648099 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T00:52:21.648163 |     WARNING: static left_brush_stroke image not found: left_brush_stroke.png
+2025-07-21T00:52:21.648220 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T00:52:21.648419 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T00:52:21.649024 |   MISSING main_creative: None
+2025-07-21T00:52:21.649084 |   MISSING bottom_chart: None
+2025-07-21T00:52:21.649136 |   MISSING bottom_table: None
+2025-07-21T00:52:21.649205 |     WARNING: main_creative missing for this slide.
+2025-07-21T00:52:21.649271 |     WARNING: bottom_chart missing for this slide.
+2025-07-21T00:52:21.649335 |     WARNING: bottom_table missing for this slide.
+2025-07-21T00:52:21.649553 |     WARNING: static logo image not found: logo.png
+2025-07-21T00:52:21.650007 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T00:52:21.650285 |     WARNING: static left_brush_stroke image not found: left_brush_stroke.png
+2025-07-21T00:52:21.650755 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T00:52:21.658179 | === GENERATION COMPLETE ===
+
+2025-07-21T00:54:56.744711 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2bkyq484
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp_kgu_afr.csv
+Output: generated_presentation.pptx
+2025-07-21T00:54:56.769519 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T00:54:56.770314 |   MISSING main_creative: None
+2025-07-21T00:54:56.770434 |   MISSING bottom_chart: None
+2025-07-21T00:54:56.770524 |   MISSING bottom_table: None
+2025-07-21T00:54:56.770594 |     WARNING: main_creative missing for this slide.
+2025-07-21T00:54:56.770645 |     WARNING: bottom_chart missing for this slide.
+2025-07-21T00:54:56.770685 |     WARNING: bottom_table missing for this slide.
+2025-07-21T00:54:56.770860 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T00:54:56.771915 |     SUCCESS: static logo placed.
+2025-07-21T00:54:56.772060 |     Placing static mushroom_accent: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/mushroom_accent.png
+2025-07-21T00:54:56.773918 |     SUCCESS: static mushroom_accent placed.
+2025-07-21T00:54:56.774099 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T00:54:56.774983 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T00:54:56.775080 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T00:54:56.775261 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T00:54:56.775711 |   MISSING main_creative: None
+2025-07-21T00:54:56.775781 |   MISSING bottom_chart: None
+2025-07-21T00:54:56.775836 |   MISSING bottom_table: None
+2025-07-21T00:54:56.775896 |     WARNING: main_creative missing for this slide.
+2025-07-21T00:54:56.775970 |     WARNING: bottom_chart missing for this slide.
+2025-07-21T00:54:56.776027 |     WARNING: bottom_table missing for this slide.
+2025-07-21T00:54:56.776125 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T00:54:56.776696 |     SUCCESS: static logo placed.
+2025-07-21T00:54:56.776794 |     Placing static mushroom_accent: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/mushroom_accent.png
+2025-07-21T00:54:56.777775 |     SUCCESS: static mushroom_accent placed.
+2025-07-21T00:54:56.777889 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T00:54:56.778275 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T00:54:56.778334 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T00:54:56.787580 | === GENERATION COMPLETE ===
+
+2025-07-21T01:01:40.200842 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb43fgvhr.csv
+Output: generated_presentation.pptx
+2025-07-21T01:01:40.229329 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T01:01:40.232346 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_main.png
+2025-07-21T01:01:40.232454 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_chart.png
+2025-07-21T01:01:40.232519 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_table.png
+2025-07-21T01:01:40.232580 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_main.png
+2025-07-21T01:01:40.234672 |     SUCCESS: main_creative placed.
+2025-07-21T01:01:40.234741 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_chart.png
+2025-07-21T01:01:40.236509 |     SUCCESS: bottom_chart placed.
+2025-07-21T01:01:40.236588 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_table.png
+2025-07-21T01:01:40.237588 |     SUCCESS: bottom_table placed.
+2025-07-21T01:01:40.237686 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T01:01:40.238857 |     SUCCESS: static logo placed.
+2025-07-21T01:01:40.239004 |     Placing static mushroom_accent: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/mushroom_accent.png
+2025-07-21T01:01:40.242393 |     SUCCESS: static mushroom_accent placed.
+2025-07-21T01:01:40.242599 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T01:01:40.244341 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T01:01:40.244483 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T01:01:40.244697 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T01:01:40.245319 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_main.png
+2025-07-21T01:01:40.245372 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_chart.png
+2025-07-21T01:01:40.245418 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_table.png
+2025-07-21T01:01:40.245469 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_main.png
+2025-07-21T01:01:40.247123 |     SUCCESS: main_creative placed.
+2025-07-21T01:01:40.247198 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_chart.png
+2025-07-21T01:01:40.247775 |     SUCCESS: bottom_chart placed.
+2025-07-21T01:01:40.247825 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmppr3_ch9p/sample_table.png
+2025-07-21T01:01:40.248565 |     SUCCESS: bottom_table placed.
+2025-07-21T01:01:40.248644 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T01:01:40.249033 |     SUCCESS: static logo placed.
+2025-07-21T01:01:40.249092 |     Placing static mushroom_accent: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/mushroom_accent.png
+2025-07-21T01:01:40.249592 |     SUCCESS: static mushroom_accent placed.
+2025-07-21T01:01:40.249651 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T01:01:40.250087 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T01:01:40.250210 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T01:01:40.271236 | === GENERATION COMPLETE ===
+
+2025-07-21T01:06:20.514346 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpddar09no.csv
+Output: generated_presentation.pptx
+2025-07-21T01:06:20.534620 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T01:06:20.535667 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_main.png
+2025-07-21T01:06:20.535745 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_table.png
+2025-07-21T01:06:20.535785 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_chart.png
+2025-07-21T01:06:20.535826 |     Placing text shape: Title with text: Sample Campaign 1...
+2025-07-21T01:06:20.536298 |     Placing text shape: AA1 Label with text: AA1...
+2025-07-21T01:06:20.536758 |     Placing text shape: Notes with text: FB Link
+IG Link...
+2025-07-21T01:06:20.537192 |     Placing text shape: Metrics with text: Spend - $348.91
+CAC (Hyros Scientific) -...
+2025-07-21T01:06:20.537672 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_main.png
+2025-07-21T01:06:20.539104 |     SUCCESS: main_creative placed.
+2025-07-21T01:06:20.539173 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_table.png
+2025-07-21T01:06:20.540743 |     SUCCESS: bottom_chart placed.
+2025-07-21T01:06:20.540815 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_chart.png
+2025-07-21T01:06:20.541823 |     SUCCESS: bottom_table placed.
+2025-07-21T01:06:20.541916 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T01:06:20.542710 |     SUCCESS: static logo placed.
+2025-07-21T01:06:20.542775 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T01:06:20.542828 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T01:06:20.543472 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T01:06:20.543532 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T01:06:20.543715 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T01:06:20.544130 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_main.png
+2025-07-21T01:06:20.544164 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_table.png
+2025-07-21T01:06:20.544197 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_chart.png
+2025-07-21T01:06:20.544234 |     Placing text shape: Title with text: Sample Campaign 2...
+2025-07-21T01:06:20.544615 |     Placing text shape: AA1 Label with text: AA2...
+2025-07-21T01:06:20.544936 |     Placing text shape: Notes with text: FB Link
+IG Link...
+2025-07-21T01:06:20.545292 |     Placing text shape: Metrics with text: Spend - $250.00
+CAC (Hyros Scientific) -...
+2025-07-21T01:06:20.545738 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_main.png
+2025-07-21T01:06:20.546841 |     SUCCESS: main_creative placed.
+2025-07-21T01:06:20.546939 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_table.png
+2025-07-21T01:06:20.547627 |     SUCCESS: bottom_chart placed.
+2025-07-21T01:06:20.547675 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp1un84leg/sample_chart.png
+2025-07-21T01:06:20.548113 |     SUCCESS: bottom_table placed.
+2025-07-21T01:06:20.548185 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T01:06:20.548550 |     SUCCESS: static logo placed.
+2025-07-21T01:06:20.548600 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T01:06:20.548649 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T01:06:20.548979 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T01:06:20.549025 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T01:06:20.574170 | === GENERATION COMPLETE ===
+
+2025-07-21T08:17:07.113625 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpcr30debf.csv
+Output: generated_presentation.pptx
+2025-07-21T08:17:07.149324 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T08:17:07.152348 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_main.png
+2025-07-21T08:17:07.152460 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_table.png
+2025-07-21T08:17:07.152557 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_chart.png
+2025-07-21T08:17:07.152639 |     Placing text shape: Title with text: Sample Campaign 1...
+2025-07-21T08:17:07.153575 |     Placing text shape: AA1 Label with text: AA1...
+2025-07-21T08:17:07.154012 |     Placing text shape: Notes with text: FB Link
+IG Link...
+2025-07-21T08:17:07.154434 |     Placing text shape: Metrics with text: Spend - $348.91
+CAC (Hyros Scientific) -...
+2025-07-21T08:17:07.155817 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_main.png
+2025-07-21T08:17:07.158906 |     SUCCESS: main_creative placed.
+2025-07-21T08:17:07.159095 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_table.png
+2025-07-21T08:17:07.161014 |     SUCCESS: bottom_chart placed.
+2025-07-21T08:17:07.161114 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_chart.png
+2025-07-21T08:17:07.162689 |     SUCCESS: bottom_table placed.
+2025-07-21T08:17:07.162986 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T08:17:07.163929 |     SUCCESS: static logo placed.
+2025-07-21T08:17:07.164031 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T08:17:07.164114 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T08:17:07.164938 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T08:17:07.165049 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T08:17:07.165240 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T08:17:07.166126 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_main.png
+2025-07-21T08:17:07.166217 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_table.png
+2025-07-21T08:17:07.166294 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_chart.png
+2025-07-21T08:17:07.166356 |     Placing text shape: Title with text: Sample Campaign 2...
+2025-07-21T08:17:07.168410 |     Placing text shape: AA1 Label with text: AA2...
+2025-07-21T08:17:07.216549 |     Placing text shape: Notes with text: FB Link
+IG Link...
+2025-07-21T08:17:07.229191 |     Placing text shape: Metrics with text: Spend - $250.00
+CAC (Hyros Scientific) -...
+2025-07-21T08:17:07.230172 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_main.png
+2025-07-21T08:17:07.232090 |     SUCCESS: main_creative placed.
+2025-07-21T08:17:07.232290 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_table.png
+2025-07-21T08:17:07.234388 |     SUCCESS: bottom_chart placed.
+2025-07-21T08:17:07.234527 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpg68eriem/sample_chart.png
+2025-07-21T08:17:07.235333 |     SUCCESS: bottom_table placed.
+2025-07-21T08:17:07.235471 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T08:17:07.236287 |     SUCCESS: static logo placed.
+2025-07-21T08:17:07.236456 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T08:17:07.236589 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T08:17:07.237313 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T08:17:07.237431 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T08:17:07.278754 | === GENERATION COMPLETE ===
+
+2025-07-21T08:20:58.378855 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpuva_6kfy.csv
+Output: generated_presentation.pptx
+2025-07-21T08:20:58.405809 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T08:20:58.408929 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_main.png
+2025-07-21T08:20:58.409023 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_table.png
+2025-07-21T08:20:58.409083 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_chart.png
+2025-07-21T08:20:58.409139 |     Placing text shape: Title with text: Sample Campaign 1...
+2025-07-21T08:20:58.409639 |     Placing text shape: AA1 Label with text: AA1...
+2025-07-21T08:20:58.410186 |     Placing text shape: Notes with text: FB Link
+IG Link...
+2025-07-21T08:20:58.410720 |     Placing text shape: Metrics with text: Spend - $348.91
+CAC (Hyros Scientific) -...
+2025-07-21T08:20:58.411340 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_main.png
+2025-07-21T08:20:58.414183 |     SUCCESS: main_creative placed.
+2025-07-21T08:20:58.414323 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_table.png
+2025-07-21T08:20:58.415839 |     SUCCESS: bottom_chart placed.
+2025-07-21T08:20:58.415922 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_chart.png
+2025-07-21T08:20:58.416923 |     SUCCESS: bottom_table placed.
+2025-07-21T08:20:58.417041 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T08:20:58.417855 |     SUCCESS: static logo placed.
+2025-07-21T08:20:58.417928 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T08:20:58.417991 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T08:20:58.418833 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T08:20:58.418901 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T08:20:58.419080 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T08:20:58.419586 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_main.png
+2025-07-21T08:20:58.419633 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_table.png
+2025-07-21T08:20:58.419676 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_chart.png
+2025-07-21T08:20:58.419726 |     Placing text shape: Title with text: Sample Campaign 2...
+2025-07-21T08:20:58.420201 |     Placing text shape: AA1 Label with text: AA2...
+2025-07-21T08:20:58.420599 |     Placing text shape: Notes with text: FB Link
+IG Link...
+2025-07-21T08:20:58.421021 |     Placing text shape: Metrics with text: Spend - $250.00
+CAC (Hyros Scientific) -...
+2025-07-21T08:20:58.421545 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_main.png
+2025-07-21T08:20:58.422844 |     SUCCESS: main_creative placed.
+2025-07-21T08:20:58.422887 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_table.png
+2025-07-21T08:20:58.423611 |     SUCCESS: bottom_chart placed.
+2025-07-21T08:20:58.423648 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpb37vd4y6/sample_chart.png
+2025-07-21T08:20:58.424115 |     SUCCESS: bottom_table placed.
+2025-07-21T08:20:58.424177 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T08:20:58.424538 |     SUCCESS: static logo placed.
+2025-07-21T08:20:58.424586 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T08:20:58.424632 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T08:20:58.425001 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T08:20:58.425046 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T08:20:58.447656 | === GENERATION COMPLETE ===
+
+2025-07-21T08:24:00.097106 | 
+=== GENERATION STARTED ===
+IMAGE_FOLDER: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x
+CSV: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmpeh3duw76.csv
+Output: generated_presentation.pptx
+2025-07-21T08:24:00.122341 | [Slide 1] Title: Sample Campaign 1
+2025-07-21T08:24:00.125149 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_main.png
+2025-07-21T08:24:00.125256 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_table.png
+2025-07-21T08:24:00.125330 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_chart.png
+2025-07-21T08:24:00.125383 |     Placing text shape: Title with text: Sample Campaign 1...
+2025-07-21T08:24:00.125867 |     Placing text shape: AA1 Label with text: AA1...
+2025-07-21T08:24:00.126209 |     Placing text shape: Notes with text: FB Link
+IG Link...
+2025-07-21T08:24:00.126582 |     Placing text shape: Metrics with text: Spend - $348.91
+CAC (Hyros Scientific) -...
+2025-07-21T08:24:00.127497 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_main.png
+2025-07-21T08:24:00.129643 |     SUCCESS: main_creative placed.
+2025-07-21T08:24:00.129863 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_table.png
+2025-07-21T08:24:00.132532 |     SUCCESS: bottom_chart placed.
+2025-07-21T08:24:00.132653 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_chart.png
+2025-07-21T08:24:00.134047 |     SUCCESS: bottom_table placed.
+2025-07-21T08:24:00.134169 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T08:24:00.135110 |     SUCCESS: static logo placed.
+2025-07-21T08:24:00.135209 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T08:24:00.135279 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T08:24:00.135923 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T08:24:00.135973 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T08:24:00.136155 | [Slide 2] Title: Sample Campaign 2
+2025-07-21T08:24:00.137355 |   Found main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_main.png
+2025-07-21T08:24:00.137578 |   Found bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_table.png
+2025-07-21T08:24:00.137988 |   Found bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_chart.png
+2025-07-21T08:24:00.138261 |     Placing text shape: Title with text: Sample Campaign 2...
+2025-07-21T08:24:00.139394 |     Placing text shape: AA1 Label with text: AA2...
+2025-07-21T08:24:00.140004 |     Placing text shape: Notes with text: FB Link
+IG Link...
+2025-07-21T08:24:00.140537 |     Placing text shape: Metrics with text: Spend - $250.00
+CAC (Hyros Scientific) -...
+2025-07-21T08:24:00.142023 |     Placing main_creative: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_main.png
+2025-07-21T08:24:00.144050 |     SUCCESS: main_creative placed.
+2025-07-21T08:24:00.144147 |     Placing bottom_chart: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_table.png
+2025-07-21T08:24:00.144839 |     SUCCESS: bottom_chart placed.
+2025-07-21T08:24:00.144888 |     Placing bottom_table: /var/folders/2p/ptvm5f_j5s70qsvzlz8f5shc0000gn/T/tmp2xqdg96x/sample_chart.png
+2025-07-21T08:24:00.145706 |     SUCCESS: bottom_table placed.
+2025-07-21T08:24:00.145781 |     Placing static logo: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/logo.png
+2025-07-21T08:24:00.146100 |     SUCCESS: static logo placed.
+2025-07-21T08:24:00.146149 |     WARNING: static mushroom_accent image not found: mushroom_accent.png
+2025-07-21T08:24:00.146197 |     Placing static left_brush_stroke: /Users/paulius/Downloads/Projects/Automatic Slides/static/uploads/left_brush_stroke.png
+2025-07-21T08:24:00.146673 |     SUCCESS: static left_brush_stroke placed.
+2025-07-21T08:24:00.146743 |     WARNING: static right_brush_stroke image not found: right_brush_stroke.png
+2025-07-21T08:24:00.171196 | === GENERATION COMPLETE ===
+
