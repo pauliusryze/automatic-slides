@@ -19,11 +19,8 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Deployment configuration
-if os.getenv('RENDER'):
-    st.set_option('server.headless', True)
-    st.set_option('server.enableCORS', False)
-    st.set_option('server.enableXsrfProtection', False)
+# Deployment configuration - handled by .streamlit/config.toml
+# No programmatic configuration needed
 
 def load_sample_data():
     """Load sample data for demonstration"""
