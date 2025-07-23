@@ -1,108 +1,122 @@
 # Automatic Slides Generator
 
-## Overview
-A web tool to automate PowerPoint slide creation from CSV and images, using a fixed template. Upload your data and images, and download a ready-to-use PPTX file.
+A Streamlit web application that automatically generates PowerPoint presentations from Excel/CSV data and images.
 
 ## Features
-- Upload CSV with text and metrics
-- Upload images for each slide
-- Generate PPTX slides matching a predefined template
-- Simple web UI for uploads and downloads
 
-## File/Folder Architecture
-```
-backend/
-  app.py                # Main backend server
-  slide_generator.py    # CSV, image, PPTX logic
-  requirements.txt      # Backend dependencies
-  templates/            # (Optional) PPTX templates
-frontend/
-  public/index.html     # Main HTML file
-  src/App.jsx           # Main React component
-  src/index.js          # React entry point
-  src/App.css           # Styling
-  package.json          # Frontend dependencies
-static/uploads/         # Uploaded files (temp)
-output/generated_slides/# Generated PPTX files
-README.md               # Project docs
-```
+- 📊 Upload Excel/CSV files with campaign data
+- 🖼️ Upload multiple images for per-row matching
+- 📈 Automatic PowerPoint generation with custom templates
+- 🎨 Professional slide layouts with branding elements
+- 📱 Responsive web interface
 
----
+## Live Demo
 
-## Getting Started
+The application is deployed on Render: [https://automatic-slides.onrender.com](https://automatic-slides.onrender.com)
 
-### 1. Install Dependencies
+## Local Development
+
+### Prerequisites
+
+- Python 3.9+
+- pip
+
+### Installation
+
+1. Clone the repository:
 ```bash
-# Backend dependencies
-python3 -m pip install -r backend/requirements.txt
-
-# Frontend dependencies
-cd frontend && npm install
+git clone https://github.com/pauliusryze/automatic-slides.git
+cd automatic-slides
 ```
 
-### 2. Run the Backend Server
+2. Install dependencies:
 ```bash
-python3 backend/app.py
+pip install -r requirements.txt
 ```
-The backend will start on `http://localhost:5000`
 
-### 3. Run the Frontend
-In a new terminal:
+3. Run the application:
 ```bash
-cd frontend && npm start
-```
-The frontend will start on `http://localhost:3000`
-
-### 4. Use the Application
-1. Open your browser to `http://localhost:3000`
-2. Upload a CSV file with your slide data
-3. Upload 3 images for each slide
-4. Click "Generate Slides" to create the PPTX
-5. Download the generated PowerPoint file
-
-## CSV Format
-Your CSV should have these columns:
-- `slide_id`: Unique identifier for each slide
-- `title`: Main title text
-- `subtitle`: Subtitle and description text
-- `metrics_raw`: Performance metrics and data
-- `notes`: Additional notes or links
-- `img1_path`, `img2_path`, `img3_path`: Image filenames
-- Additional columns for specific metrics (spend, CAC, etc.)
-
-## Example Usage
-```bash
-# Start backend server
-python3 backend/app.py
-
-# In another terminal, start frontend
-cd frontend && npm start
-
-# Access the web UI at http://localhost:3000
+streamlit run streamlit_app.py
 ```
 
-## API Endpoints
-- `POST /api/upload`: Upload CSV and images, generate PPTX
-- `GET /api/download/<filename>`: Download generated PPTX file
+4. Open your browser and navigate to `http://localhost:8501`
 
----
+## Usage
 
-## Project Status: ✅ COMPLETE
+1. **Upload Data**: Upload an Excel (.xlsx) or CSV file containing your campaign data
+2. **Upload Images**: Upload images that match the filenames in your data file
+3. **Generate**: Click "Generate Presentation" to create your PowerPoint
+4. **Download**: Download the generated presentation
 
-All features have been implemented and tested:
-- ✅ Backend server with Flask
-- ✅ Frontend UI with React
-- ✅ CSV parsing and slide generation
-- ✅ Image processing and placement
-- ✅ PPTX file generation
-- ✅ File upload and download
-- ✅ Error handling and user feedback
+### Required Data Columns
 
----
+Your Excel/CSV file should contain these columns:
+- `title`: Campaign title
+- `ad_account`: Ad account identifier
+- `spend`: Campaign spend amount
+- `cac_scientific`: CAC (Hyros Scientific)
+- `cac_last_click`: CAC (Hyros Last Click)
+- `cac_clicks_only`: CAC (Clicks Only - Northbeam)
+- `cac_last_non_direct`: CAC (Last non-direct touch - Northbeam)
+- `new_visits_pct`: New visits percentage
+- `ecr_pct`: ECR percentage
+- `date_created`: Date created
+- `fb_link_text`: Facebook link text
+- `fb_link_url`: Facebook link URL
+- `ig_link_text`: Instagram link text
+- `ig_link_url`: Instagram link URL
+- `main_image`: Main creative image filename
+- `chart_image`: Chart image filename
+- `table_image`: Table image filename
 
-## Troubleshooting
-- Make sure Python 3 and pip are installed
-- Ensure all dependencies are installed: `python3 -m pip install -r backend/requirements.txt`
-- Check that the backend server is running on port 5000
-- Verify your CSV format matches the expected schema
-- If frontend doesn't start, run `npm install` in the frontend directory
+### Image Requirements
+
+- Supported formats: PNG, JPG, JPEG
+- Filenames must match exactly with those in your data file
+- Images are automatically placed in designated slots on each slide
+
+## Deployment
+
+### Render Deployment
+
+This project is configured for easy deployment on Render:
+
+1. Fork or clone this repository
+2. Connect your repository to Render
+3. Create a new Web Service
+4. Render will automatically detect the configuration from `render.yaml`
+
+### Manual Deployment
+
+For other platforms, use the `Procfile` and `runtime.txt` files.
+
+## Project Structure
+
+```
+automatic-slides/
+├── streamlit_app.py          # Main Streamlit application
+├── backend/
+│   ├── slide_generator.py    # PowerPoint generation logic
+│   └── template_config.py    # Slide template configuration
+├── static/
+│   └── uploads/              # Static images for branding
+├── requirements.txt          # Python dependencies
+├── render.yaml              # Render deployment configuration
+├── Procfile                 # Alternative deployment config
+└── README.md               # This file
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Support
+
+For issues and questions, please open an issue on GitHub.

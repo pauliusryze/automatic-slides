@@ -15,8 +15,15 @@ import json
 st.set_page_config(
     page_title="Automatic Slides Generator",
     page_icon="📊",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
+
+# Deployment configuration
+if os.getenv('RENDER'):
+    st.set_option('server.headless', True)
+    st.set_option('server.enableCORS', False)
+    st.set_option('server.enableXsrfProtection', False)
 
 def load_sample_data():
     """Load sample data for demonstration"""
